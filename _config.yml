@@ -1,0 +1,28 @@
+name: chippersons
+favicon: null
+layout_spectrum: 0.7809132451657206
+typography_spectrum: 0.6356570022180676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9957823345903307
+  lightness: 0.9677560618147254
+  saturation: 0.6787951120641083
+  rhythmicContrast: 0.8000282605644315
+purpose: []
